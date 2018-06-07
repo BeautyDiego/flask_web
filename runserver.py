@@ -1,7 +1,6 @@
 """
 This script runs the FlaskJinja application using a development server.
 """
-
 from os import environ
 from FlaskJinja import app
 
